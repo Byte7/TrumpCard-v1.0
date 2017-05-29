@@ -1,0 +1,2 @@
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Donald Trump", "g"), "Crime master Gogo");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Mr. Trump", "g"), "Crime master Gogo");
